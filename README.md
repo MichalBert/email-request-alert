@@ -52,9 +52,9 @@ Kód
 ├── README.md
 ├── flow-export.zip
 └── screenshots/
-  ├── flow-overview.png
-  ├── condition.png
-  └── action.png
+├── flow-overview.png
+├── condition.png
+└── action.png
 
 Kód
 
